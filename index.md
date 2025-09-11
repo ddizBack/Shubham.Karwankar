@@ -11,5 +11,5 @@ Data/ML/AI Engineer focused on end-to-end pipelines, RAG, and cloud deployments.
 - LangChain, FastAPI, Streamlit
 
 - Projects: Taxi Fare Pipeline, RAG Product QA 
-- Resume: [Download](/assets/resume/Shubham_Resume.pdf)
+- Resume: [Download](/assets/resume/Shubham_Resume.docx)
 - Contact: email: karwankarshubham@gmail.com | LinkedIn: https://www.linkedin.com/in/shubham-karwankar-335094168
